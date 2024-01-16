@@ -28,6 +28,25 @@
     justify-content: flex-end;
 }
 
+.space-around {
+    justify-content: space-around;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.align-top {
+    align-items: flex-start;
+}
+
+.align-end {
+    align-items: flex-end;
+}
 
 /*********************************
 COLONNE
